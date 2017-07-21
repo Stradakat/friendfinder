@@ -1,0 +1,2 @@
+// Includes a single default profile, so that anyone demoing from the GitHub repository will have a result.
+module.exports = [{"name":"Ahmed","photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg","answers":["2","5","5","4","5","1","1","2","2","2"]}];
