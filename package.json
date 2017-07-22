@@ -1,7 +1,6 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.17.2",
@@ -14,5 +13,14 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stradakat/friendfinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stradakat/friendfinder/issues"
+  },
+  "homepage": "https://github.com/Stradakat/friendfinder#readme",
+  "description": ""
 }
